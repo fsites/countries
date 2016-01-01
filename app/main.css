@@ -1,0 +1,12 @@
+* {
+	font-family: 'helvetica';
+	text-align: center;
+	margin: 0 auto;
+}
+
+/*HEADER*/
+#header {
+	width: 100%;
+	border-bottom: 2px solid black;
+	margin-top: 30px;
+}
